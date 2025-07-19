@@ -24,3 +24,44 @@
     color:black;
     font-weight: 400;
 }
+.lol1{
+    border-radius: 8px;
+    color:#217BF4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 177px;
+    height: 36px;
+    background-color: #E8F2FE;
+    font-size: 12px;
+    font-weight: 400;
+}
+.big{
+    font-size: 56px;
+    font-weight: 800;
+}
+.grey-20{
+    color:#656464;
+    font-size: 20px;
+    font-weight: 400;
+}
+.btn1{
+    padding: 20px 30px;
+    border-radius: 14px;
+    background-color: #217BF4;
+    color:white;
+    border: none;
+}
+.btn2{
+    padding: 20px 30px;
+    border-radius: 14px;
+    background-color: #ffffff;
+    color:#217BF4;
+    border: 1px solid #217BF4;
+}
+.flex2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:70px;
+}
