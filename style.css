@@ -1,5 +1,6 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
+    color:#0A093D;
 }
 
 .flex{
@@ -36,6 +37,18 @@
     font-size: 12px;
     font-weight: 400;
 }
+.lol2{
+    border-radius: 8px;
+    color:#217BF4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 177px;
+    height: 36px;
+    background-color: #ffffff;
+    font-size: 12px;
+    font-weight: 400;
+}
 .big{
     font-size: 56px;
     font-weight: 800;
@@ -43,6 +56,11 @@
 .grey-20{
     color:#656464;
     font-size: 20px;
+    font-weight: 400;
+}
+.grey-18{
+    color:#656464;
+    font-size: 18px;
     font-weight: 400;
 }
 .btn1{
@@ -64,4 +82,19 @@
     justify-content: center;
     align-items: center;
     gap:70px;
+}
+.big-48{
+    font-size: 48px;
+}
+.Image{
+    display: flex;
+    gap:25px;
+    align-items: center;
+}
+.flex3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:200px;
+    margin-top: 50px;
 }
